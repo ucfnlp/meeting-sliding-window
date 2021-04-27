@@ -1,1 +1,1 @@
-# meeting-sliding-window
+# A Sliding-Window Approach to Automatic Creation of Meeting Minutes
